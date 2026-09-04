@@ -1,1 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title> Pagina do Thiago Basilio</title>
+    </head>
+    <body>
+        <h1>Ola sou Thiago Basilio</h1>
+        <h2>Sobre mim</h2>
+        <p>Ola tenho 18 anos, moro em Osasco-SP, e gosto de programar, com foco em phyton e automoção de processos, gosto de jogar no PC em horas vagas, principalmente PES, um jogo de futebol e tambem tenhos bastante interesse pela area de ficção cientifica, assistindo series e lendo um pouco sobre tambem</p>
 
+        <h2>Meu curso</h2>
+        <p>Faço Analise e Desenvolvimento de Sistemas na FATEC, escolhi o curso de Análise e Desenvolvimento de Sistemas por ter interesse na área de tecnologia e por acreditar que ela oferece diversas oportunidades de crescimento profissional. Sempre tive curiosidade em entender como os sistemas e as ferramentas tecnológicas funcionam, e o curso me permite desenvolver conhecimentos em programação</p>
+
+        <h2>Meus hobbies</h2>
+        <ul>
+            <li>Programar</li>
+            <li>Jogar</li>
+            <li>Assitir series de ficção cientifica</li>
+            <li>Ouvir musica</li>
+        </ul>
+
+        <h2>Objetivo profissional</h2>
+        <p>Busco uma oportunidade na área de Tecnologia da Informação, aplicando meus conhecimentos em Análise e Desenvolvimento de Sistemas para contribuir com a criação, manutenção e aprimoramento de soluções tecnológicas, enquanto desenvolvo continuamente minhas habilidades profissionais</p>
+    </body>
+</html>
