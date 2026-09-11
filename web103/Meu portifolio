@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil - Thiago Basilio</title>
+</head>
+<body>
+    <H1>Thiago Basilio</H1>
+    <p>Estudante de <strong>Analise Desenvolvimento de Sistemas</strong></p>
+    <p><strong>Cidade/UF</strong>Barueri - SP</p>
+
+    <hr>
+    
+    <h2>Sobre mim</h2>
+    <p>Meu nome é Thiago Basilio, tenho 18 anos e atualmente trabalho no Mercado Livre. Nas minhas horas vagas, gosto de jogar no PC e também aproveito meu tempo para estudar e me desenvolver na área de tecnologia. Tenho conhecimentos aprofundados em Python e automação de processos, áreas que despertam bastante meu interesse por permitirem criar soluções e tornar tarefas mais rápidas e eficientes. Busco sempre aprender coisas novas e evoluir tanto profissionalmente quanto pessoalmente. </p>
+    <p>O que me motiva a estudar tecnologia e fazer ADS é meu interesse em aprender coisas novas e entender como a tecnologia pode facilitar a vida das pessoas. Quero desenvolver meus conhecimentos, aprender programação e me preparar para o mercado de trabalho, construindo uma carreira na área de tecnologia.</p>
+   
+    <h2>Tecnologias q eu ja vi</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <il>Java</il>
+        <li>Python</li>
+        <li>Logica de programação</li>
+        <li>SQL</li>
+    </ul>
+
+    <h2>Meus hobbies são</h2>
+        <ul>
+            <li>Jogar</li>
+            <li>Assistir series</li>
+            <li>Estudar</li>
+            <li>Assistir videos de curiosidades em geral</li>
+        </ul>
+    <h2>Objetivos profissionais</h2>
+   <ol>
+        <li><strong>Curto prazo (6 meses):</strong>Aprender ingles fluente</li>
+        <li><strong>Medio prazo (1-2 anos):</strong>Terminar a faculdade e ja esta trabalhando na area de tecnologia</li>
+        <li><strong>Longo prazo (3-5 anos)</strong>Esta morando fora do país, em algum país da Europa</li>
+   </ol>
+
+    <h2>Onde me encontrar</h2>
+    <ul>
+        <li><a href="https://github.com/thiagobasilio887-sys"
+        target="_blank">GitHub</a></li>
+        <li><a href="www.linkedin.com/in/thiago-basilio-bba76535a"
+        target="_blank">Linkedin</a></li>
+        <li><a href="malito:thiagobasilio887@gmail.com">thiagobasilio887@gmail.com</a></li>
+        <li><a href="11 917156027">(11) 91715 6027</a></li>
+    </ul>
+
+    <h2>TOP 5 sites que mais acesso</h2>
+    <ol>
+        <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+        <li><a href="https://www.instagram.com/" target="_blank">Instagram</a></li>
+        <li><a href="https://store.steamstatic.com/?l=portuguese" target="_blank">Steam</a></li>
+        <li><a href="https://www.youtube.com/" target="_blank">YouTube</a></li>
+    </ol>
+    
+</body>
+</html>
