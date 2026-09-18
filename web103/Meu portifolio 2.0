@@ -27,6 +27,8 @@
     </nav>
 
     <hr>
+
+    <img width="123px" src="WhatsApp Image 2026-09-18 at 09.34.30.jpeg">
     <section id="Sobremim">
     <h2>Sobre mim</h2>
     <p>Meu nome é Thiago Basilio, tenho 18 anos e atualmente trabalho no Mercado Livre. Nas minhas horas vagas, gosto de jogar no PC e também aproveito meu tempo para estudar e me desenvolver na área de tecnologia. Tenho conhecimentos aprofundados em Python e automação de processos, áreas que despertam bastante meu interesse por permitirem criar soluções e tornar tarefas mais rápidas e eficientes. Busco sempre aprender coisas novas e evoluir tanto profissionalmente quanto pessoalmente. </p>
@@ -39,7 +41,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>JavaScript</li>
-        <il>Java</il>
+        <li>Java</li>
         <li>Python</li>
         <li>Logica de programação</li>
         <li>SQL</li>
@@ -54,6 +56,16 @@
             <li>Estudar</li>
             <li>Assistir videos de curiosidades em geral</li>
         </ul>
+         
+        <h3>Galeria dos meus hobbies</h3>
+ <p>Jogo que mais jogo:</p>       
+<img src="images.jpg" alt="Pes" width="150">
+<br>
+<p>Serie preferida:</p>
+<img src="maxresdefault.jpg" alt="Serie Preferida" width="150">
+<br>
+<p>Estudos:</p>
+<img src="programming-background-with-person-working-with-codes-computer-1200x800.jpg" alt="Estudos" width="150">
 </section>
 
 <section id="Objetivosprofissionais">
@@ -87,7 +99,56 @@
         <li><a href="https://discord.com/" target="_blank">Discord</a></li>
     </ol>
    </section>
-    
 
+   <section id="conhecimentos">
+    <h2>Meus Conhecimentos</h2>
+    <table border="1">
+        <tr>
+            <th>Tecnologia</th>
+            <th>Nível</th>
+            <th>Experiência (meses)</th>
+        </tr>
+        <tr>
+            <td>HTML</td>
+            <td>Básico</td>
+            <td>2 meses</td>
+        </tr>
+        <tr>
+            <td>CSS</td>
+            <td>Iniciante</td>
+            <td>1 mês</td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td>Em breve</td>
+            <td>-</td>
+        </tr>
+    </table>
+</section>
+
+<section id="contato-form">
+    <h2>Entre em contato</h2>
+    
+    <form>
+        <label for="nomeContato">Nome:</label>
+        <input type="text" id="nomeContato" required>
+        <br><br>
+
+        <label for="emailContato">E-mail:</label>
+        <input type="email" id="emailContato" required>
+        <br><br>
+
+        <label for="assunto">Assunto:</label>
+        <input type="text" id="assunto" placeholder="Dúvida, sugestão, orçamento...">
+        <br><br>
+
+        <label for="mensagemContato">Mensagem:</label>
+        <textarea id="mensagemContato" placeholder="Digite sua mensagem aqui..."></textarea>
+        <br><br>
+
+        <button type="submit">Enviar mensagem</button>
+    </form>
+</section>
+    
 </body>
 </html>
