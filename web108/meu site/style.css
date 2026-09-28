@@ -1,0 +1,31 @@
+body{
+   background-color: darkblue;
+   color: aliceblue;
+   padding: 5px;           
+   max-width: 800px;        
+   margin: 0 auto; 
+}
+h1{
+    text-align: center;
+    font-size: 67px;
+}
+.fotominha{
+    border-radius: 100%;
+}
+.card {
+    background-color: #0051ff;
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 20px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+.botao {
+    background-color: #3498DB;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
