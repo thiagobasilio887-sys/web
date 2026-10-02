@@ -1,0 +1,94 @@
+body{
+   background-color: darkblue;
+   color: aliceblue;
+   padding: 5px;           
+   max-width: 800px;        
+   margin: 0 auto; 
+}
+h1{
+    text-align: center;
+    font-size: 67px;
+}
+.card {
+    background-color: #0051ff;
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    padding: 25px;
+    margin: 20px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+.botao {
+    background-color: #3498DB;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 12px 30px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+}
+.menu {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #3498DB;
+    padding: 15px;
+}
+.menu a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.contatos {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: #3498DB;
+    padding: 15px;
+}
+.contatos a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    background-color: #2C3E50;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+.site {
+    display: flexbox;
+    justify-content: center;
+    gap: 30px;
+    background-color: #3498DB;
+    padding: 25px;
+} 
+.site a {
+    color: #FFFFFF;
+}
+.projetos-grid {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.projeto-card {
+    background-color: #3498DB;
+    border: 1px solid #DDD;
+    border-radius: 10px;
+    padding: 20px;
+    flex: 1;          
+    min-width: 200px;  
+}
+
